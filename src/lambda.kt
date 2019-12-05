@@ -32,7 +32,12 @@ data class Person(
 )
 
 fun findMaxAgePerson() {
-
     val people = listOf(Person("Alice", 20), Person("Bob", 30))
-    people.maxBy { it.age }
+//    people.maxBy { it.age }
+//    people.maxBy(Person::age)
+    val oldestOne: Person? = people.maxBy({person: Person ->
+        person.age
+    })
+
+    println(oldestOne?: "hello")
 }
