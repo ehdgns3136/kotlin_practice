@@ -1,0 +1,126 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="c62571fb-4ff6-4679-9724-86e41e2bab8e" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Kotlin File" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1UYNBVX7eQ2yjk4xtszU04lwKTa" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="settings.editor.selected.configurable" value="configurable.group.appearance" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="MainKt" type="JetRunConfigurationType" factoryName="Kotlin" nameIsGenerated="true">
+      <module name="kotlin_practice" />
+      <option name="VM_PARAMETERS" value="" />
+      <option name="PROGRAM_PARAMETERS" value="" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="MAIN_CLASS_NAME" value="MainKt" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="JetRunConfigurationType" factoryName="Kotlin">
+      <module name="kotlin_practice" />
+      <option name="VM_PARAMETERS" value="" />
+      <option name="PROGRAM_PARAMETERS" value="" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="MAIN_CLASS_NAME" value="MainKt" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="c62571fb-4ff6-4679-9724-86e41e2bab8e" name="Default Changelist" comment="" />
+      <created>1575529433877</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1575529433877</updated>
+      <workItem from="1575529437399" duration="8585000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="2424" y="-327" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1575529486801">
+      <screen x="1680" y="-697" width="2560" height="1417" />
+    </state>
+    <state x="2424" y="-327" key="#com.intellij.execution.impl.EditConfigurationsDialog/1680.-697.2560.1417/0.23.1680.947@1680.-697.2560.1417" timestamp="1575529486801" />
+    <state x="2697" y="-198" key="#com.intellij.ide.util.TreeClassChooserDialog" timestamp="1575529475965">
+      <screen x="1680" y="-697" width="2560" height="1417" />
+    </state>
+    <state x="2697" y="-198" key="#com.intellij.ide.util.TreeClassChooserDialog/1680.-697.2560.1417/0.23.1680.947@1680.-697.2560.1417" timestamp="1575529475965" />
+    <state width="1638" height="612" key="GridCell.Tab.0.bottom" timestamp="1575536989926">
+      <screen x="0" y="23" width="1680" height="947" />
+    </state>
+    <state width="1638" height="612" key="GridCell.Tab.0.bottom/1680.-697.2560.1417/0.23.1680.947@0.23.1680.947" timestamp="1575536989926" />
+    <state width="2518" height="612" key="GridCell.Tab.0.bottom/1680.-697.2560.1417/0.23.1680.947@1680.-697.2560.1417" timestamp="1575534575583" />
+    <state width="1638" height="612" key="GridCell.Tab.0.center" timestamp="1575536989925">
+      <screen x="0" y="23" width="1680" height="947" />
+    </state>
+    <state width="1638" height="612" key="GridCell.Tab.0.center/1680.-697.2560.1417/0.23.1680.947@0.23.1680.947" timestamp="1575536989925" />
+    <state width="2518" height="612" key="GridCell.Tab.0.center/1680.-697.2560.1417/0.23.1680.947@1680.-697.2560.1417" timestamp="1575534575581" />
+    <state width="1638" height="612" key="GridCell.Tab.0.left" timestamp="1575536989924">
+      <screen x="0" y="23" width="1680" height="947" />
+    </state>
+    <state width="1638" height="612" key="GridCell.Tab.0.left/1680.-697.2560.1417/0.23.1680.947@0.23.1680.947" timestamp="1575536989924" />
+    <state width="2518" height="612" key="GridCell.Tab.0.left/1680.-697.2560.1417/0.23.1680.947@1680.-697.2560.1417" timestamp="1575534575580" />
+    <state width="1638" height="612" key="GridCell.Tab.0.right" timestamp="1575536989925">
+      <screen x="0" y="23" width="1680" height="947" />
+    </state>
+    <state width="1638" height="612" key="GridCell.Tab.0.right/1680.-697.2560.1417/0.23.1680.947@0.23.1680.947" timestamp="1575536989925" />
+    <state width="2518" height="612" key="GridCell.Tab.0.right/1680.-697.2560.1417/0.23.1680.947@1680.-697.2560.1417" timestamp="1575534575582" />
+    <state x="620" y="240" width="670" height="452" key="search.everywhere.popup" timestamp="1575538232644">
+      <screen x="0" y="23" width="1680" height="947" />
+    </state>
+    <state x="620" y="240" width="670" height="452" key="search.everywhere.popup/1680.-697.2560.1417/0.23.1680.947@0.23.1680.947" timestamp="1575538232644" />
+    <state x="2625" y="-372" width="670" height="676" key="search.everywhere.popup/1680.-697.2560.1417/0.23.1680.947@1680.-697.2560.1417" timestamp="1575533390635" />
+  </component>
+</project>
