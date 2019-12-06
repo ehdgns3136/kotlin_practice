@@ -1,3 +1,6 @@
+// lambda should be always in curly braces!!
+
+
 fun <T, R, Q> lambdaTest(
     initial: T,
     initial2: R,
@@ -35,9 +38,23 @@ fun findMaxAgePerson() {
     val people = listOf(Person("Alice", 20), Person("Bob", 30))
 //    people.maxBy { it.age }
 //    people.maxBy(Person::age)
-    val oldestOne: Person? = people.maxBy({person: Person ->
-        person.age
-    })
+    val oldestOne: Person? = people.maxBy({person: Person -> person.age })
+    people.maxBy { person: Person -> person.age }
 
     println(oldestOne?: "hello")
+
+    lambdaTest1{a: Int ->
+        println("hello")
+        println("hello")
+        println("hello")
+        println("hello")
+        println("hello")
+        println("hello")
+        println("hello")
+        a+1
+    }
+}
+
+fun lambdaTest1(myFun: (Int) -> Int) {
+    myFun(10)
 }
