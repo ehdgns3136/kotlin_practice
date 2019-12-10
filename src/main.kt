@@ -1,28 +1,9 @@
 import com.sun.org.apache.xpath.internal.operations.Bool
 
 fun main(args: Array<String>) {
-//    val list = arrayListOf(1, 2, 3)
-//    println(list.joinToString())
-//    print(anonymousFun(10))
-//    print(lambdaFun(10))
-//
-//    println(listOf(10,20).filter(::isOdd))
-//
-//    lambdaTest1{a: Int ->
-//        println("hello")
-//        println(a)
-//        a
-//    }
-//
-//    collections2(10,20,30,40,50)
-//    println(listOf(10,20,30)::class)
-
-
-    getFunAsParameter(a())
-    getFunAsParameter(sum)
-
-    println(returnUnit())
-    println(returnAny())
-    println(sum(10))
+    val a = TestForConstructor("A", "C")
+    val b = TestForConstructor("P", "Q", 2)
+    println(a.s)
+    println(b.s)
 }
 
