@@ -16,5 +16,13 @@ fun main(args: Array<String>) {
 //
 //    collections2(10,20,30,40,50)
 //    println(listOf(10,20,30)::class)
+
+
+    getFunAsParameter(a())
+    getFunAsParameter(sum)
+
+    println(returnUnit())
+    println(returnAny())
+    println(sum(10))
 }
 
