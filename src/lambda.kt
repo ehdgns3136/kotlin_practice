@@ -21,8 +21,12 @@ fun <T, R> Collection<T>.fold(
     return accumulator
 }
 
-val lambdaFun = {a: Int ->
-    a
+val lambdaFun = {a: Int -> a }
+
+val lambdaFun2: (Int) -> Int = ::myNewFun
+
+fun myNewFun(a: Int): Int {
+    return a
 }
 
 val anonymousFun = fun (a: Int): Int {
@@ -57,4 +61,13 @@ fun findMaxAgePerson() {
 
 fun lambdaTest1(myFun: (Int) -> Int) {
     myFun(10)
+}
+
+fun testRun(a: Int) {
+    run {
+        println("Hello0")
+        return@run
+    }
+
+    println("Hello1")
 }
