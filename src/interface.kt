@@ -4,6 +4,8 @@ interface IBlock<in T> {
 
 interface ICube<out T> {
     fun show(): T
+
+    val value: T
 }
 
 fun fillBlock(b: IBlock<Number>) {
@@ -12,4 +14,16 @@ fun fillBlock(b: IBlock<Number>) {
 
 fun showCube(c: ICube<String>): Any {
     return c.show()
+}
+
+abstract class MyAbstract {
+    fun a() {
+        println("Hello")
+    }
+}
+
+open class OpenClass
+
+class MyClass: OpenClass {
+    constructor(): super()
 }

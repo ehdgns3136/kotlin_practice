@@ -20,8 +20,7 @@ fun main(args: Array<String>) {
 
 //    lambdaFun(19)
 //    testRun(10)
-    makeThemGreetTogether()
-
+    changeElement()
 }
 
 
